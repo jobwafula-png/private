@@ -1,0 +1,11 @@
+# Polymarket Weather Discord Bot — requirements.txt
+# fps.ms free hosting | pip install -r requirements.txt
+
+aiohttp==3.9.5
+discord.py==2.4.0
+schedule==1.2.2
+python-dotenv==1.0.1
+scipy==1.13.1
+numpy==1.26.4
+python-dateutil==2.9.0
+pytz==2024.1
